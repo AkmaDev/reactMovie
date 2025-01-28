@@ -1,5 +1,5 @@
 # Recherche de Films avec Appwrite et The Movie Database (TMDB)
-
+![Aperçu de l'application](./screenshots/ecran.png)
 ## 🚀 Description
 
 Ce projet est une application web de recherche de films conçue pour offrir une expérience utilisateur fluide et rapide. L'application utilise **Appwrite** comme backend et **The Movie Database (TMDB)** comme source principale de données. Elle permet aux utilisateurs de :
